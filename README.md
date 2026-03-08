@@ -77,25 +77,7 @@ Deliberate choice for an investor demo prototype — zero-config, portable, sing
 
 ---
 
-## Getting Started
 
-```bash
-git clone https://github.com/xenonJr/sohojbank.git
-cd sohojbank
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-# Add: JWT_SECRET, JWT_EXPIRY, BCRYPT_SALT_ROUNDS
-
-# Run the backend
-cd server && npm start
-
-# Run the frontend
-cd client && ng serve
-```
 
 Open `http://localhost:4200` in your browser.
 
