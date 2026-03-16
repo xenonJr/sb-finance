@@ -2,7 +2,7 @@
 
 **A fully functional mobile financial services (MFS) prototype with secure transactions, JWT auth, and investor-ready UX.**
 
-🔒 **Status:** Private (Investor Demo)
+🔒 **Link:** https://sohojbank.com/
 
 ---
 
