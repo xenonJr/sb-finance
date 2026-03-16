@@ -77,15 +77,10 @@ Deliberate choice for an investor demo prototype — zero-config, portable, sing
 
 ---
 
-
-
-Open `http://localhost:4200` in your browser.
-
----
-
 ## Screenshots
 
-> *Coming soon*
+![Main Image](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1f524d6-aa03-421a-ac95-60ef4f8f4626" />
+))
 
 ---
 
