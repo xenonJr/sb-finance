@@ -76,14 +76,3 @@ Built to prove technical viability before committing to a production-scale launc
 Deliberate choice for an investor demo prototype — zero-config, portable, single-file database that runs anywhere without server setup. Investors could interact with the app live on any machine without database configuration. The schema and transaction logic are designed to migrate cleanly to PostgreSQL or MySQL for production.
 
 ---
-
-## Screenshots
-
-![Main Image](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1f524d6-aa03-421a-ac95-60ef4f8f4626" />
-))
-
----
-
-## License
-
-MIT
